@@ -2,7 +2,7 @@
 Repositorio de:
 
 ## 
-Hector Maurucio Cervantes Castelan
+Hector Mauricio Cervantes Castelan
 ## 
 a21200888
 ## 
