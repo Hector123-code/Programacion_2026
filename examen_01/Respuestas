@@ -1,0 +1,20 @@
+Examen 01
+
+1. Define clase
+Una clase en C++ es una estructura que permite crear nuestros propios tipos de datos.
+Es una plantilla o molde que define:
+
+  Atributos: variables que almacenan datos.
+  Métodos: funciones que definen comportamientos.
+Esto ayuda a definir como serán los objetos creados a partir de la clase.
+
+2. Define encapsulamiento
+El encapsulamiento es un principio de la Programación Orientada a Objetos, su principal función es ocultar los datos internos de una clase y permitir el acceso solo mediante métodos controlados.
+El encapsulamiento se puede hacer mediante estos códigos:
+  private: solo accesible dentro de la clase.
+  public: accesible desde cualquier parte del programa.
+Esto evita que otras partes del programa modifiquen los datos de manera incorrecta.
+
+3. Define constructor
+Un constructor es un método especial de una clase que inicializa los atributos cuando se crea un objeto, esto gracias a que se inicializa de manera automática al crear el objeto y no tiene retorno.
+Este te ayuda a evitar problemas a la hora de programar y te ayuda a programar un poco mas fácil al poder recibir parámetros.
